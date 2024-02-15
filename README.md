@@ -1,8 +1,7 @@
 
-# Project Name
-Dmart-microservices
-## About
-A Microservice architecture implementation of an E-commerce platform.
+# Dmart-microservices
+
+A basic Microservice architecture implementation of an E-commerce platform.
 
 - Api-gateway [https://github.com/anazibinurasheed/dmart-api-gateway.git]
 - Auth [https://github.com/anazibinurasheed/dmart-auth-svc.git]
